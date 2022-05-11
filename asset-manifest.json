@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/whichflix/static/css/main.e6c13ad2.css",
-    "main.js": "/whichflix/static/js/main.3846af29.js",
+    "main.js": "/whichflix/static/js/main.04ca21fa.js",
     "static/js/787.41edc248.chunk.js": "/whichflix/static/js/787.41edc248.chunk.js",
     "index.html": "/whichflix/index.html",
     "main.e6c13ad2.css.map": "/whichflix/static/css/main.e6c13ad2.css.map",
-    "main.3846af29.js.map": "/whichflix/static/js/main.3846af29.js.map",
+    "main.04ca21fa.js.map": "/whichflix/static/js/main.04ca21fa.js.map",
     "787.41edc248.chunk.js.map": "/whichflix/static/js/787.41edc248.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3846af29.js"
+    "static/js/main.04ca21fa.js"
   ]
 }
