@@ -1,10 +1,12 @@
 import React from "react";
-import MovieSearch from "./Components/MovieSearch";
+import Homepage from "./Pages/Homepage";
+import Header from "./Components/Header";
 
 function App() {
   return (
     <div className="App">
-      <MovieSearch />
+      <Header/>
+      <Homepage/>
     </div>
   );
 }
